@@ -1,6 +1,6 @@
 # FCC-excercises
 Exercises done in effort to complete various FreeCodeCamp certificates.
 
-CafeMenu - 
+CafeMenu - https://abdullaht-bk.github.io/FCC-excercises/CafeMenu/index.html
 
-Colored Markers - https://AbdullahT-BK.github.io/ColoredMarkers/index.html
+Colored Markers - https://abdullaht-bk.github.io/FCC-excercises/ColoredMarkers/index.html
