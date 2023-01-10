@@ -1,4 +1,5 @@
 # FCC-excercises
-Exercises done completing various FreeCodeCamp certificates.
+Exercises done in effort to complete various FreeCodeCamp certificates.
 
 CafeMenu - 
+Colored Markers -
